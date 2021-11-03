@@ -5,9 +5,9 @@ Routine used in the article "First-order methods for the convex hull membership 
 - `ExperimentsSection6_1.m`: Routine used to generate the results of section 6.1
 - `ExperimentsSection6_2.m`: Routine used to generate the results of section 6.2
 
-*Algorithms: In this folder are the algorithms used in the experiments.
-    - `TriangleAlgorithm.m`: Triangle Algorithm with random pivots
-    - `GreedyTriangleAlgorithm.m`: Greedy Triangle Algorithm
+*Algorithms: In this folder are the algorithms used in the experiments.\\
+    - `TriangleAlgorithm.m`: Triangle Algorithm with random pivots\\
+    - `GreedyTriangleAlgorithm.m`: Greedy Triangle Algorithm\\
     - `AwayStepFrankWolfeAlgorithm.m`: Frank Wolfe Algorithm with Away Step
     - `SpectralProjectedGradient.m`: Spectral Projected Gradient (SPG)
     - `simplex_proj.m`: Projection onto unit simplex for SPG
