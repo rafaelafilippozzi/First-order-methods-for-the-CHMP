@@ -20,5 +20,6 @@ Routine used in the article "First-order methods for the convex hull membership 
 - Experiment-data-6-1: Data included in section 6.1
 - Experiment-data-6-2: Data included in section 6.2
 
-    * `ExperimentsSection6_1.m`: Routine used to generate the results of section 6.1
-    * `ExperimentsSection6_2.m`: Routine used to generate the results of section 6.2
+* `ExperimentsSection6_1.m`: Routine used to generate the results of section 6.1
+
+* `ExperimentsSection6_2.m`: Routine used to generate the results of section 6.2
