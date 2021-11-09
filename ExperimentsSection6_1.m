@@ -1,8 +1,8 @@
 %Experiments_section_6_1
 addpath ('Functions')
 addpath ('Algorithms')
-Titles = ['Case a'; 'Case b'; 'Case c'; 'Case d'];
-Size = ['pequeno'; 'grande '];
+Titles = ['Case_a'; 'Case_b'; 'Case_c'; 'Case_d'];
+Size = ['_small'; '_big__'];
 mkdir visitordata6-1;
 for pvar = 1:4
     for nvar = 1:2                
