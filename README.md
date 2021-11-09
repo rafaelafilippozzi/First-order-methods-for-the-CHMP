@@ -15,7 +15,7 @@ Routine used in the article "First-order methods for the convex hull membership 
     * `simplex_proj.m`: Projection onto unit simplex for SPG
     * `nonmonotoneArmijocriterion.m`: Nonmonotone Armijo Criterion for SPG.
 
-- Functions: Functions used to create the routine from sections 6.1 and 6.2.
+- Functions: auxiliary functions used by ExperimentsSection6_x.m
     * `artificialchmp.m`: Generates artificial instances of CHMP
     * `artificialfeasibilityproblem.m`: Generates artificial instances of linear programming feasibility problem
     * `generateArandom.m`: Generates A randomly according to a uniform distribution on the unit ball of Rm
@@ -24,5 +24,6 @@ Routine used in the article "First-order methods for the convex hull membership 
 - Experiment-data-6-1: Data included in section 6.1
 - Experiment-data-6-2: Data included in section 6.2
 
-To reproduce the experiments from section 6.1 as they are in the article, that is, using the routine `ExperimentsSection6_1.m`, a folder called "visitor-6-1" will be created with the new data. Analogously this will happen to reproduce the experiments from section 6.2.
+To reproduce the experiments from Section 6.1 as they are in the article, add the folders 'Functions' and 'Algorithms' to MATLAB path and use the routine ExperimentsSection6_1.m. A folder called "visitordata-6-1" will be created with the new data/results. 
+The same applies to the experiments of Section 6.2.
 
