@@ -11,7 +11,7 @@ Titlesviability = ['feasible__'; 'infeasible'];
 Titletol = ['_1e-6';'_1e-7'];
 mkdir visitordata6-2;
 for i= 1:4  
-    for j = 2 
+    for j = 1:2 
         for k = 1:2
             [averagetime, averageiteration, parameters, countfail] =  artificialfeasibilityproblem (m(i),n(i),viability(j), tolfix(k));  
             namesave = fullfile('visitordata6-2',[Titlesm(i,:),Titlesn(i,:),Titlesviability(j,:),Titletol(k,:)]);
