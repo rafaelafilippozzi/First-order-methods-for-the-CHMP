@@ -7,6 +7,8 @@ Routine used in the article "First-order methods for the convex hull membership 
 
 * `ExperimentsSection6_2.m`: Routine used to generate the results of section 6.2
 
+* `mnistchmp.m`: Routine used to generate the results of section 6.3
+
 - Algorithms: In this folder are the algorithms used in the experiments.
     * `TriangleAlgorithm.m`: Triangle Algorithm with random pivot
     * `GreedyTriangleAlgorithm.m`: Greedy Triangle Algorithm
@@ -23,7 +25,9 @@ Routine used in the article "First-order methods for the convex hull membership 
 
 - Experiment-data-6-1: Data included in section 6.1
 - Experiment-data-6-2: Data included in section 6.2
+- Experiment-data-6-3: Data included in section 6.3
 
 To reproduce the experiments from Section 6.1 as they are in the article, add the folders 'Functions' and 'Algorithms' to MATLAB path and use the routine ExperimentsSection6_1.m. A folder called "visitordata-6-1" will be created with the new data/results. 
-The same applies to the experiments of Section 6.2.
+The same applies to the experiments of Section 6.2 and Section 6.3. 
+Note: For the experiments in section 6.3 it is necessary to extract the MNIST data set.
 
