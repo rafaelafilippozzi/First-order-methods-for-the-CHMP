@@ -1,5 +1,5 @@
 # First-order-methods-for-the-CHMP
-Routine used in the article "First-order methods for the convex hull membership problem.
+Routine used in the article: FILIPPOZZI, Rafaela; GONÇALVES, Douglas S.; SANTOS, Luiz-Rafael. First-order methods for the convex hull membership problem. European Journal of Operational Research, v. 306, n. 1, p. 17-33, 2023.
 
 # Folders and Files
 
